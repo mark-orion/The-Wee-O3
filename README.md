@@ -2,7 +2,7 @@
 ## An ionized O2 MiniPop
 *The Wee O3* is an Arduino Nano based emulation of a [Korg Mini Pops](https://en.wikipedia.org/wiki/Korg_Mini_Pops) drum machine.  
 The O3 follows Jan Ostman's O2 from 2016 with additional features and optimizations for the Korg SQ-1 sequencer.  
-[Video with feature demonstration](https://youtu.be/vjLT6ayJKSc)
+[Video with feature demonstration](https://youtu.be/vjLT6ayJKSc)  
 In addition to the standard 16 drum patterns and 8 samples the following features are provided:
 ## New Features
 * Analog pitch control via potentiometer or CV input. Changing the pitch will change the tempo as well because pitch control is achieved by changing the interrupt timing.
